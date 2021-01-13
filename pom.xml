@@ -16,7 +16,6 @@
   </properties>
 
   <modules>
-    <module>server</module>
     <module>homepage</module>
   </modules>
 
