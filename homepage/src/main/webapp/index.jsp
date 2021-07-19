@@ -1,1 +1,1 @@
-<h1> Welcome to Bribe By Bytes.. </h1>
+<h1> Welcome to Bribe By Bytes. </h1>
